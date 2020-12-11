@@ -1,0 +1,25 @@
+header {
+  background-color: pink;
+}
+
+nav {
+  text-align: center;
+  height: max-content;
+  padding: 10px;
+}
+nav .links {
+  background-color: orange;
+  display: inline;
+  padding: 5px 5px;
+  margin-right: 20%;
+}
+nav .links:nth-child(3) {
+  margin-right: 0;
+  margin-left: 20%;
+}
+nav .links:nth-child(4) {
+  margin-right: 0;
+  margin-left: 20%;
+}
+
+/*# sourceMappingURL=main.css.map */
